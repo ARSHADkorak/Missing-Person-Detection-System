@@ -94,10 +94,4 @@ Add public-facing search interface (for family/public access)
 
 Support cloud deployment for scalable camera sources
 
-Would you like me to generate:
 
-A sample models.py?
-
-A camera_stream.py that supports multi-camera processing with face detection?
-
-A views.py or urls.py template for a basic REST API?
