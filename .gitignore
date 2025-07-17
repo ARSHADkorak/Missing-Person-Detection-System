@@ -1,0 +1,81 @@
+# === Java ===
+*.class
+*.log
+*.jar
+*.war
+
+# === Build directories ===
+/target/
+/build/
+
+# === Gradle ===
+.gradle/
+/gradlew
+/gradlew.bat
+
+# === Maven ===
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# === IDEs ===
+# Eclipse
+.project
+.classpath
+.settings/
+/.eclipse/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Others ===
+*.tmp
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+
+# Django
+db.sqlite3
+*.log
+staticfiles/
+media/
+
+# VSCode, PyCharm, etc.
+.vscode/
+.idea/
+
+# Mac/Windows OS files
+.DS_Store
+Thumbs.db
+
+# Migrations (optional)
+**/migrations/*.pyc
+**/migrations/__pycache__/
